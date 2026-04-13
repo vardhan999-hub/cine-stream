@@ -3,6 +3,8 @@
 A modern, production-ready **movie discovery application** built with React, focused on performance optimization, seamless UX, and AI-powered recommendations.
 
 🔗 **Live Demo:** [View Project](https://cine-stream-navy.vercel.app/)
+
+
 📂 **GitHub Repository:** [Source Code](https://github.com/vardhan999-hub/cine-stream)
 
 ---
